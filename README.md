@@ -79,10 +79,10 @@ Tables principales :
 ---
 
 ##  Autres fonnctionnalités Bonus
-✔ Chat entre utilisateurs  
-✔ Système de recommandation de produits  
-✔ Multi-vendeurs  
-✔ Gestion des rôles (Admin / User)
+- Chat entre utilisateurs  
+- Système de recommandation de produits  
+- Multi-vendeurs  
+- Gestion des rôles (Admin / User)
 
 
 
